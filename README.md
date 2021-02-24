@@ -1,6 +1,4 @@
-# Project01-PopCornBox Game
-
-## Description:
+# PopCornBox Game
 PopCorn-Box is an interesting single-player game about saving the falling sweet Popcorn before it hits the floor, in which the player has to do such an action by using the box to gain the highest scores and prevent the life counters from running OUT❕❕ 
 
 ## Game Framework:
@@ -16,17 +14,12 @@ The PopCorn-Box Game has several features, such as:
 - The speed of game will be increased after a certain amount of scores.
 - a landing page to show the game instructions.
 
-## Favorite Function:
-My most favorite function is "The Div Collision Detection". 
+## Game-Demo:
+https://pages.git.generalassemb.ly/njoudhaddad/Project01-PopCornBox/
 
-Briefly, it tests whether two objects overlap and touch each other to do a specific event (like In physics:nerd_face:).
+##### This game has been created in partial fulfillment of the requirements for the First Project of Software Engineering Immersive Course, that provided by General Assembly.
 
-**Code Snippet**
-
-<img width="420" alt="collision" src="https://media.git.generalassemb.ly/user/32588/files/1c49fd80-3f40-11eb-8819-38408d00fceb">
-
-
-
+ 
 
 
 
