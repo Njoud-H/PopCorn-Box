@@ -1,6 +1,7 @@
 # PopCornBox Game
 PopCorn-Box is an interesting single-player game about saving the falling sweet Popcorn before it hits the floor, in which the player has to do such an action by using the box to gain the highest scores and prevent the life counters from running OUT❕❕ 
-##### (This game has been created in partial fulfillment of the requirements for the First Project of Software Engineering Immersive Course, that provided by General Assembly).
+
+This game has been created in partial fulfillment of the requirements for the First Project of **Software Engineering Immersive Course**, that provided by **_General Assembly_**.
 
 
 ## Game Framework:
