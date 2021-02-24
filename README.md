@@ -17,7 +17,7 @@ The PopCorn-Box Game has several features, such as:
 - The speed of game will be increased after a certain amount of scores.
 - a landing page to show the game instructions.
 
-## Game-Demo:
+## Game Live-Demo:
 https://pages.git.generalassemb.ly/njoudhaddad/Project01-PopCornBox/
 
 
